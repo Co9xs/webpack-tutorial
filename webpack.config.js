@@ -16,5 +16,9 @@ module.exports = {
   mode: 'development',
   output: {
     clean: true
+  },
+  devServer: {
+    contentBase: './dist',
+    open: true
   }
 };
