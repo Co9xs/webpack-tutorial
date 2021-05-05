@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Co9xs/webpack-tutorial#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.36.2",
     "webpack-cli": "^4.6.0"
   },
